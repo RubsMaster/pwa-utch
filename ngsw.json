@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1678414964337,
-  "index": "/angular-app/index.html",
+  "timestamp": 1678415860718,
+  "index": "https://github.com/RubsMaster/pwa-utch/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-app/favicon.ico",
-        "/angular-app/index.html",
-        "/angular-app/main.2b3e568b3c1bc51e.js",
-        "/angular-app/manifest.webmanifest",
-        "/angular-app/polyfills.0ce3311bd25e0ebf.js",
-        "/angular-app/runtime.c36cc7e9113b3eeb.js",
-        "/angular-app/styles.ef46db3751d8e999.css"
+        "https://github.com/RubsMaster/pwa-utch/favicon.ico",
+        "https://github.com/RubsMaster/pwa-utch/index.html",
+        "https://github.com/RubsMaster/pwa-utch/main.2b3e568b3c1bc51e.js",
+        "https://github.com/RubsMaster/pwa-utch/manifest.webmanifest",
+        "https://github.com/RubsMaster/pwa-utch/polyfills.0ce3311bd25e0ebf.js",
+        "https://github.com/RubsMaster/pwa-utch/runtime.c36cc7e9113b3eeb.js",
+        "https://github.com/RubsMaster/pwa-utch/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-app/assets/icons/icon-128x128.png",
-        "/angular-app/assets/icons/icon-144x144.png",
-        "/angular-app/assets/icons/icon-152x152.png",
-        "/angular-app/assets/icons/icon-192x192.png",
-        "/angular-app/assets/icons/icon-384x384.png",
-        "/angular-app/assets/icons/icon-512x512.png",
-        "/angular-app/assets/icons/icon-72x72.png",
-        "/angular-app/assets/icons/icon-96x96.png"
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-128x128.png",
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-144x144.png",
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-152x152.png",
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-192x192.png",
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-384x384.png",
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-512x512.png",
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-72x72.png",
+        "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/angular-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/angular-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/angular-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/angular-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/angular-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/angular-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/angular-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/angular-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/angular-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/angular-app/index.html": "503cf5be50a1e9c010fc5851bb615bb2a90338b9",
-    "/angular-app/main.2b3e568b3c1bc51e.js": "3d055bdbf2982bf39de017f602efd80722e528a5",
-    "/angular-app/manifest.webmanifest": "999b929e3fbf2ea831cff5df30e0647f962f14c3",
-    "/angular-app/polyfills.0ce3311bd25e0ebf.js": "db422fcd0a6f973c3b8b55ab7fe0e767985c8095",
-    "/angular-app/runtime.c36cc7e9113b3eeb.js": "244310ba6c60c0cb0d923ef8c3dbe842d5501cc9",
-    "/angular-app/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://github.com/RubsMaster/pwa-utch/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://github.com/RubsMaster/pwa-utch/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/RubsMaster/pwa-utch/index.html": "e48829777dca431398aecea725ef57c55e4efaf1",
+    "https://github.com/RubsMaster/pwa-utch/main.2b3e568b3c1bc51e.js": "3d055bdbf2982bf39de017f602efd80722e528a5",
+    "https://github.com/RubsMaster/pwa-utch/manifest.webmanifest": "999b929e3fbf2ea831cff5df30e0647f962f14c3",
+    "https://github.com/RubsMaster/pwa-utch/polyfills.0ce3311bd25e0ebf.js": "db422fcd0a6f973c3b8b55ab7fe0e767985c8095",
+    "https://github.com/RubsMaster/pwa-utch/runtime.c36cc7e9113b3eeb.js": "244310ba6c60c0cb0d923ef8c3dbe842d5501cc9",
+    "https://github.com/RubsMaster/pwa-utch/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
